@@ -1,0 +1,5 @@
+Built a project aimed at automatic detection and extraction of vehicle license plate information from images or
+video streams captured by cameras.
+ Implemented advanced image preprocessing, object detection, and character recognition algorithms to achieve a
+high level of accuracy in identifying and reading license plates in various lighting and environmental conditions
+ Utilized computer vision techniques to accurately and efficiently extract and interpret license plate information.
